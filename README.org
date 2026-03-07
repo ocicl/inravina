@@ -4,6 +4,6 @@ A portable and extensible Common Lisp pretty printer.
 
 |---------+--------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Inravina.git                                       |
-| commit  | d672b6f                                                                                    |
-| systems | inravina inravina-shim inravina-native inravina-extrinsic inravina-examples                |
+| commit  | 0000000                                                                                                                                    |
+| systems | inravina inravina-shim inravina-native inravina-extrinsic inravina-examples inravina-extension-intrinsic inravina-extension-extrinsic      |
 |---------+--------------------------------------------------------------------------------------------|
